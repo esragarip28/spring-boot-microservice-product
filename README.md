@@ -1,8 +1,8 @@
-#Microservice product
+# Microservice product
 
-##Endpoints
+## Endpoints
 
-###Save Product : localhost:8080/api/product
+### Save Product : localhost:8080/api/product
 
 ```
 POST /api/product HTTP/1.1
@@ -32,7 +32,7 @@ Content-Length: 45
 
 ````
 
-###Delete Product: localhost:8080/api/product/1
+### Delete Product: localhost:8080/api/product/1
 ```
 DELETE /api/product/1 HTTP/1.1
 Host: localhost:8080
